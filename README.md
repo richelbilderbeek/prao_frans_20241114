@@ -16,7 +16,8 @@ To find out how working life at NBIS/UPPMAX/UU is like.
 
 ## PRAO projects
 
-- [ ] 
+- [ ] Create a speed profile, [Programming Formalisms exercise](https://uppmax.github.io/programming_formalisms/optimisation/runtime_speed_profiles/)
+- [ ] Measure big-O complexity, [Programming Formalisms exercise](https://uppmax.github.io/programming_formalisms/optimisation/big_o/#measurement-1-big-o)
 
 ## PRAO tips from former students
 
@@ -24,48 +25,6 @@ To find out how working life at NBIS/UPPMAX/UU is like.
 > you'll get it done in the end. Remember the goal of a PRAO.
 > The start is the hardest, it gets easier.
 > [Emil](https://github.com/richelbilderbeek/prao_emil_20240603)
-
-## FAQ for colleagues
-
-### What is the purpose of meeting the PRAO student?
-
-To show the diversity within our workplace.
-
-The goal for the PRAO student is to find out how working at
-university/NBIS/UPPMAX looks like. I (Richel) think that
-we do widely different things and have widely different
-opinions and personality. Hence, I hope the PRAO student
-meets a lot of colleagues.
-
-### What should I do with the PRAO student?
-
-The goal of a PRAO is to find out how our working life
-looks like.
-
-You can already do so by having him come to your office and
-talk about your job. You can also use the PRAO student
-to do work you'd give to a new colleague.
-
-### How do I book some time with the PRAO student?
-
-In many ways:
-
-- Send a Slack PM to Richel Bilderbeek
-- Send an email to `richel.bilderbeek@icm.uu.se`
-- Create an Issue at this repo
-- Create a Pull Request to this repo,
-  putting yourself in a slot in [the schedule](schedule.md)
-
-### How long can I have the PRAO student?
-
-At least one slot at most all slots in two days.
-
-- One slot, because it allows for straightforward scheduling
-- Two days, because it allows for meeting many colleagues
-
-### Help, I must cancel last-minute
-
-No worries, just let Richel or the PRAO student know.
 
 ## Files used by continuous integration scripts
 
