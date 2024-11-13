@@ -18,6 +18,7 @@ To find out how working life at NBIS/UPPMAX/UU is like.
 
 - [ ] Create a speed profile, [Programming Formalisms exercise](https://uppmax.github.io/programming_formalisms/optimisation/runtime_speed_profiles/)
 - [ ] Measure big-O complexity, [Programming Formalisms exercise](https://uppmax.github.io/programming_formalisms/optimisation/big_o/#measurement-1-big-o)
+- [ ] Work on the [Programming Formalisms example project](https://github.com/programming-formalisms/programming_formalisms_example_project)
 
 ## PRAO tips from former students
 
