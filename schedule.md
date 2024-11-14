@@ -4,7 +4,7 @@
 
 Start|What
 -----|-----
-9:00 |Start @ Richel's office [B9:430b](office)
+9:00 |Start @ Richel's office [B9:430b](office.md)
 9:01 |Discuss interests of PRAO student
 9:05 |Discuss goal of PRAO
 9:07 |Discuss method of archieving goal: [report](report.md) and [reflection](reflection.md)
